@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "fa1278d7-01d2-41ab-a7c7-a8debe8c4659",
+		"name": "spring_api_mongodb_funcionario",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "11087463",
+		"_collection_link": "https://martian-escape-358671.postman.co/workspace/506a2aef-ad07-4f1d-9ec2-d56bcc0fd652/collection/11087463-fa1278d7-01d2-41ab-a7c7-a8debe8c4659?action=share&source=collection_link&creator=11087463"
+	},
+	"item": [
+		{
+			"name": "Funcionarios",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/funcionarios"
+			},
+			"response": []
+		},
+		{
+			"name": "criar funcionario",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://localhost:8080/funcionarios"
+			},
+			"response": []
+		},
+		{
+			"name": "range funcionarios",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://localhost:8080/funcionarios"
+			},
+			"response": []
+		},
+		{
+			"name": "ra",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://localhost:8080/funcionarios"
+			},
+			"response": []
+		}
+	]
+}
